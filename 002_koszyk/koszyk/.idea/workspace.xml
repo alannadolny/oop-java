@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92e502d5-d10b-4f6d-badd-c2c7d4ddec66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carts/SetCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Carts/SetCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Discounts/DiscountIfBuy3Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Discounts/DiscountIfBuy3Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Discounts/DiscountsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Discounts/DiscountsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Discounts/SetDiscountCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Discounts/SetDiscountCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Discounts/SetDiscounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Discounts/SetDiscounts.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="289VeqQ7DQfELlwHvc0hGr3x4wL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in koszyk">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in koszyk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="koszyk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="koszyk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Carts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Carts" />
+      <option name="MAIN_CLASS_NAME" value="Carts.CartTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="koszyk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Discounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Discounts" />
+      <option name="MAIN_CLASS_NAME" value="Discounts.DiscountsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountsTests.test_discount_if_order_more_expensive_than_300" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="koszyk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Discounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Discounts" />
+      <option name="MAIN_CLASS_NAME" value="Discounts.DiscountsTests" />
+      <option name="METHOD_NAME" value="test_discount_if_order_more_expensive_than_300" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="koszyk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyArrayList" />
+      <option name="MAIN_CLASS_NAME" value="MyArrayList.ListsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in koszyk" />
+        <item itemvalue="JUnit.ListsTest" />
+        <item itemvalue="JUnit.DiscountsTests" />
+        <item itemvalue="JUnit.CartTests" />
+        <item itemvalue="JUnit.DiscountsTests.test_discount_if_order_more_expensive_than_300" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92e502d5-d10b-4f6d-badd-c2c7d4ddec66" name="Default Changelist" comment="" />
+      <created>1650628889336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650628889336</updated>
+      <workItem from="1650628891426" duration="20000" />
+      <workItem from="1650629016128" duration="2392000" />
+      <workItem from="1650658215746" duration="11851000" />
+      <workItem from="1650811281997" duration="21251000" />
+      <workItem from="1650843346179" duration="35000" />
+      <workItem from="1650874924893" duration="69000" />
+      <workItem from="1651090628743" duration="12245000" />
+      <workItem from="1651175054612" duration="2000" />
+      <workItem from="1651182946159" duration="382000" />
+      <workItem from="1651232144540" duration="1113000" />
+      <workItem from="1651233652067" duration="3185000" />
+      <workItem from="1651268840083" duration="2323000" />
+      <workItem from="1651271235472" duration="38000" />
+      <workItem from="1651320736682" duration="59000" />
+      <workItem from="1651688921413" duration="2577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/koszyk$DiscountsTests_test_remove_discount.ic" NAME="DiscountsTests.test_remove_discount Coverage Results" MODIFIED="1650836705787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
